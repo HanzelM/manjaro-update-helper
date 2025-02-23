@@ -94,7 +94,7 @@ then
         printf '%s\n' "#       Will add a file called ${TEXTFORMATTING[BRIGHT]}/etc/sudoers.d/manjaro-update-helper${TEXTFORMATTING[NORMAL]}  #"
         printf '%s\n' "#       with entries to enable running this script as the current    #"
         printf '%s\n' "#       user without a password.                                     #"
-        printf '%s\n' "#       ${TEXTFORMATTING[BRIGHT]}CARE MUST BE TAKED WITH THE ${TEXTFORMATTING[GREEN]}/etc/sudoers${TEXTFORMATTING[NORMAL]} FILE, AS DOING IT   #"
+        printf '%s\n' "#       ${TEXTFORMATTING[BRIGHT]}CARE MUST BE TAKEN WITH THE ${TEXTFORMATTING[GREEN]}/etc/sudoers${TEXTFORMATTING[NORMAL]} FILE, AS DOING IT   #"
         printf '%s\n' "#       INNCORRECTLY CAN LEAD TO BEING LOCKED OUT OF THE SYSTEM.     #"
         printf '%s\n' "#       ${TEXTFORMATTING[RED]}PLEASE BE ${TEXTFORMATTING[BRIGHT]}VERY${TEXTFORMATTING[NORMAL]}${TEXTFORMATTING[RED]} CAREFUL.${TEXTFORMATTING[NORMAL]}                                      #"
         printf '%s\n' "#     * ${TEXTFORMATTING[BRIGHT]}--skipbackup${TEXTFORMATTING[NORMAL]}, or ${TEXTFORMATTING[BRIGHT]}-s${TEXTFORMATTING[NORMAL]}                                          #"
